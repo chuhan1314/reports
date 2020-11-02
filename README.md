@@ -11,9 +11,9 @@ Report on work related to transcriptome, single-cell transcriptome, and spatial 
 
 2. 转录组工作相关
 
-##3. 单细胞转录组学相关
+*3. 单细胞转录组学相关
 
-##4. 空间转录组学相关
+*4. 空间转录组学相关
 
 恳切地希望老师能够点击查看，多多了解我，多多关注我！
 
